@@ -3,13 +3,6 @@
 ## Objetivo
 
 Llegar a la sesión con un backlog inicial de FlowSync ya generado: convertir el PRD del proyecto en un conjunto de user stories con criterios de aceptación, usando IA como herramienta — pero **diseñando tú el prompt** y **revisando críticamente la salida**.
-
-Este material es el insumo principal del directo. En la Demo 1 partiremos de los backlogs de la cohorte: revisaremos qué prompts produjeron mejor output, qué hallazgos emergieron al criticar las stories, y conectaremos con cómo se trasladan a Linear y a OpenSpec.
-
-> 💡 **Lo que NO buscamos**: el "prompt perfecto". No existe. Buscamos que ejercites el patrón "AI as poke-holes" (página 2 del asíncrono) y veas con tus manos por qué la IA es decente generando, mediocre estimando, y especialmente útil cuando le pides que critique tu propio trabajo.
-
-Este ejercicio **no entra en el contenido del directo**. No vas a priorizar, ni a estimar, ni a definir sprints, ni a poblar Linear todavía. Eso es trabajo de la sesión en vivo. Aquí solo generas el backlog en local y lo sometes a crítica.
-
 ---
 
 ## Prerrequisitos
