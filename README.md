@@ -1,7 +1,4 @@
 # Ejercicio pre-sesión · Sesión 4 — Planificación efectiva con IA
-
-> **Importante sobre la entrega:** este ejercicio debe llegar a tu TA con al menos **48 horas de antelación** respecto al directo. Esto permite revisar los entregables, detectar bloqueos comunes y preparar el inicio de la sesión con material concreto. Las entregas fuera de plazo no se podrán incorporar a la dinámica del directo.
-
 ---
 
 ## Objetivo
